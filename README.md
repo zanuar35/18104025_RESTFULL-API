@@ -2,16 +2,25 @@
 Sebuah Restful API menggunakan framework  Laravel yang terdiri dari fungsi GET, POST, PUT, DELETE yang terintegrasi dengan DATABASE;
 <br/> <br/>
 
-Sebelum memulai membuat source code untuk Restful API , Pastikan sudah terinstal:
-        1. Xampp
-        2. Composer
-        3. Laravel
-        4. Kode editor
-        5. Postman
+Sebelum memulai membuat source code untuk Restful API , Pastikan sudah terinstal:<br/>
+        1. Xampp<br/>
+        2. Composer<br/>
+        3. Laravel<br/>
+        4. Code editor , kali ini saya menggunakan Visual Studio Code<br/>
+        5. Postman<br/>
+        
+<br/> <br/><br/> <br/>
+
+Pada tugas ini , saya membuat Restful API yang terintegrasi dengan Database jadwal perjalanan bus pada suatu terminal , Informasi yang ditampilkan antara lain adalah <br/>
+1. Nama bus <br/>
+2. Kode bus <br/>
+3. Tujuan <br/>
+<br/> <br/><br/> <br/>
+
 
 **Read Data**
 <br/><br/>
-
+cara nya cukup mudah yaitu tinggal ketikan saja url 127.0.0.1:8000/api/jadwal pada url bar pada browser anda
 ![alt text](https://user-images.githubusercontent.com/45329366/103201330-3ca39000-4922-11eb-8ef5-c01b1da9b3fb.jpg)
 
 <br/> <br/><br/> <br/>
