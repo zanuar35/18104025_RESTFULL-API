@@ -8,14 +8,14 @@ Sebelum memulai membuat source code untuk Restful API , Pastikan sudah terinstal
         3. Laravel<br/>
         4. Code editor , kali ini saya menggunakan Visual Studio Code<br/>
         5. Postman<br/>
-        
-<br/> <br/><br/> <br/>
+       
+<br/> <br/>
 
 Pada tugas ini , saya membuat Restful API yang terintegrasi dengan Database jadwal perjalanan bus pada suatu terminal , Informasi yang ditampilkan antara lain adalah <br/>
 1. Nama bus <br/>
 2. Kode bus <br/>
 3. Tujuan <br/>
-<br/> <br/><br/> <br/>
+<br/> <br/><br/>
 
 
 **Read Data**
